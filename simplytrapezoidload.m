@@ -23,11 +23,6 @@ else
     w1=input('Enter Intensity of load w in N/m \n w1=')
     w2=input('Enter Intensity of load w in N/m \n w2=')
 end 
-    
-%w2=input('Intensity of load w1 in N/m \n w2=')
-L=5;
-E=1*(10^10);
-I=4.5*(10^-4)
 syms x M(x) SF(X); 
 syms C1 C2 C3; 
 syms slope(x) deflection(x); 
