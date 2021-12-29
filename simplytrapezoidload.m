@@ -1,4 +1,4 @@
-%simply supported beam with UVL uniformly varying load
+%simply supported beam with UDL/UVL/Trapezoidal load
 clear all;
 clc;
 E=input('Youngs Modulus or Modulus of elasticity in Pascals \n E=')
